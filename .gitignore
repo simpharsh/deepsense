@@ -1,9 +1,9 @@
 /Datasets
-
+*.pth
 # Allow these specific files
 !deepfake.ipynb
 !app.py
-!best_model.pth
+
 
 # Allow gitignore itself
 !.gitignore
